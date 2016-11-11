@@ -13,3 +13,5 @@
 * 7、Stagger React Native Animations with **Animated.stagger**
 * 8、Animate Multiple Animations at the Same Time with **Animated.parallel**
 * 9、Create a Flip Card Animation with React Native
+
+![animate1](./gif/animate1.gif)
