@@ -15,3 +15,11 @@
 * 9、Create a Flip Card Animation with React Native
 
 ![animate1](./gif/animate1.gif)
+![animate2](./gif/animate2.gif)
+![animate3](./gif/animate3.gif)
+![animate4](./gif/animate4.gif)
+![animate5](./gif/animate5.gif)
+![animate6](./gif/animate6.gif)
+![animate7](./gif/animate7.gif)
+![animate8](./gif/animate8.gif)
+![animate9](./gif/animate9.gif)
