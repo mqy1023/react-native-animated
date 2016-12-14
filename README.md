@@ -1,12 +1,12 @@
 
-# Animate React Native 动画
+# React Native Animated 动画大全
 本项目主要是学习并演示React Native动画API, 比如有定时和弹簧动画等等来演示动画样式属性,
 并组合多种动画样式来创建更复杂效果.还有更多高级交互.
 例如：触摸事件(touch events)、插值(interpolation)、翻转(flip)等动画.
 
 **目前只支持Animated.Text / Animated.View / Animated.Image**
 
-## 九个文件九中效果如下:
+## 九个文件不同效果如下:
 * 1、**Animated.timing**(value: AnimatedValue | AnimatedValueXY, config: TimingAnimationConfig)
 
   推动一个值按照一个过渡曲线而随时间变化。Easing模块定义了一大堆曲线，你也可以使用你自己的函数。
@@ -30,7 +30,7 @@
 
 * 8、**Animated.parallel**
   同时开始一个动画数组里的全部动画。默认情况下，如果有任何一个动画停止了，其余的也会被停止。可以通过`stopTogether` 选项来改变这个效果。
-  
+
 * 9、Flip卡片效果
 
 ![animate1](./gif/animate1.gif)
