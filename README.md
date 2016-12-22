@@ -33,6 +33,9 @@
 
 * 9、Flip卡片效果
 
+## 其他动画链接推荐
+[动画详解](http://www.alloyteam.com/2016/01/reactnative-animated/)
+
 ![animate1](./gif/animate1.gif)
 ![animate2](./gif/animate2.gif)
 ![animate3](./gif/animate3.gif)
